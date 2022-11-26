@@ -8,9 +8,9 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.io.IOException;
+
 import java.sql.*;
-import java.util.GregorianCalendar;
+
 
 
 public class Ventana implements ActionListener {

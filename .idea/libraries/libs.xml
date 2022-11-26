@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/EjemploBases/libs/jgoodies-common-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EjemploBases/libs/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EjemploBases/libs/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/EjemploBases/libs/jgoodies-forms-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
