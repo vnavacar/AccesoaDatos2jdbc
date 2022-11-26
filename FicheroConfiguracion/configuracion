@@ -1,6 +1,0 @@
-#-- Fichero de configuración --
-#Thu Nov 14 10:49:39 CET 2013
-conectar=false
-puerto=3306
-basedatos=juego
-servidor=localhost

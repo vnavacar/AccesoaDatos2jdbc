@@ -1,7 +1,7 @@
 package org.sfaci.ejemplobases;
 
 import com.toedter.calendar.JDateChooser;
-import javafx.beans.property.adapter.JavaBeanObjectProperty;
+//import javafx.beans.property.adapter.JavaBeanObjectProperty;
 import org.sfaci.ejemplobases.util.Util;
 
 import javax.swing.*;
@@ -12,9 +12,7 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.GregorianCalendar;
 
-/**
- * Created by DAM on 16/11/2015.
- */
+
 public class Ventana implements ActionListener {
     private JPanel panel;
     private JTabbedPane tabbedPane1;

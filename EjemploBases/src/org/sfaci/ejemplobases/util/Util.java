@@ -2,9 +2,6 @@ package org.sfaci.ejemplobases.util;
 
 import javax.swing.*;
 
-/**
- * Created by dam on 19/11/15.
- */
 public class Util {
 
     public static void mensajeError(String mensaje, String titulo) {
